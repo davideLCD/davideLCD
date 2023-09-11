@@ -1,7 +1,7 @@
 <h1 align="center">👋 Davide Lo Cascio</h1>
 <h3 align="center">A passionate Web developer from Sardinia (Italy)</h3>
 
-- 🔭 I’m currently studying at **The Net Value Academy for Junior Full Stack Web Developer**
+- 🔭 I just finish studying at **The Net Value Academy for Junior Full Stack Web Developer**
 
 - 🌱 I’m currently learning **IT developing**
 
